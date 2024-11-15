@@ -22,6 +22,7 @@
   <li><strong>Drag-and-Drop Task Management:</strong> Drag tasks between "Todo," "In Progress," and "Closed" sections to update their status.</li>
   <li><strong>Light and Dark Mode Themes:</strong> A visually appealing toggler allows switching between light and dark themes with gradient styling.</li>
   <li><strong>Persistent Storage:</strong> Tasks are saved in <code>localStorage</code>, ensuring data is retained even after refreshing the browser.</li>
+   <li><strong>Responsive:</strong> Flexible for all Devices .</li>
 </ul>
 
 <h2>Setup and Launch</h2>
