@@ -70,8 +70,10 @@
 <h2>Screenshots</h2>
 <p><strong>Light Mode</strong></p>
 ![Screenshot 2024-11-15 130530](https://github.com/user-attachments/assets/3fd5df7b-33cd-45d7-8b60-0c1cdc85b394)
+
 <p><strong>Dark Mode</strong></p>
 ![Screenshot 2024-11-15 130519](https://github.com/user-attachments/assets/cdd1dc94-2e7a-4b10-8a81-fb99df91c188)
+
 <p><strong>Task Creation and Search</strong></p>
 ![Screenshot 2024-11-15 130733](https://github.com/user-attachments/assets/dbe2435e-0736-4414-b872-acec58269b58)
 
