@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Task Manager - README</title>
 </head>
 <body>
 
@@ -70,13 +69,11 @@
 
 <h2>Screenshots</h2>
 <p><strong>Light Mode</strong></p>
-<img src="path/to/light-mode-screenshot.png" alt="Light Mode" class="screenshot">
+![Screenshot 2024-11-15 130530](https://github.com/user-attachments/assets/3fd5df7b-33cd-45d7-8b60-0c1cdc85b394)
 <p><strong>Dark Mode</strong></p>
-<img src="path/to/dark-mode-screenshot.png" alt="Dark Mode" class="screenshot">
+![Screenshot 2024-11-15 130519](https://github.com/user-attachments/assets/cdd1dc94-2e7a-4b10-8a81-fb99df91c188)
 <p><strong>Task Creation and Search</strong></p>
-<img src="path/to/task-creation-screenshot.png" alt="Task Creation and Search" class="screenshot">
-<p><strong>Drag-and-Drop Task Management</strong></p>
-<img src="path/to/drag-drop-screenshot.png" alt="Drag-and-Drop Task Management" class="screenshot">
+![Screenshot 2024-11-15 130733](https://github.com/user-attachments/assets/dbe2435e-0736-4414-b872-acec58269b58)
 
 <h2>Technologies Used</h2>
 <ul>
