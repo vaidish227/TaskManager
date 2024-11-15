@@ -4,17 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Task Manager - README</title>
-  <style>
-    body { font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; max-width: 800px; margin: auto; }
-    h1 { font-size: 2em; color: #333; }
-    h2 { color: #007acc; }
-    h3 { color: #333; }
-    p { margin: 10px 0; }
-    ul { list-style-type: disc; margin-left: 20px; }
-    code { background-color: #f4f4f4; padding: 2px 5px; border-radius: 4px; }
-    .screenshot { border: 1px solid #ccc; border-radius: 8px; padding: 5px; width: 100%; }
-    .commands { background-color: #f4f4f4; padding: 10px; border-radius: 8px; margin: 10px 0; }
-  </style>
 </head>
 <body>
 
